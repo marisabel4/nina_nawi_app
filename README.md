@@ -1,2 +1,2 @@
 # nina_nawi_app
-aplicación móvil para la fabrica de software drones "alerta temprana de incendios"
+aplicación móvil para la fabrica de software drones "alerta temprana de incendios" hola aun ando perdida ?????
